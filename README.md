@@ -17,6 +17,7 @@ Python REST APIs with FastAPI
 
 3. Hit the API
 
+    * http://localhost:8000/users
     * http://localhost:8000/items/5?q=somequery
    
 4. View the docs
